@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: e3876415-f919-470f-874e-51cb68117e56
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: icon_flower.svg
+    file:
+      type: file
+      value: 57956231-5767-4b12-8443-0e378a509fdd
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/dwsfSKzGTaunBLyd20SnWA/4GagGapjRdSX7CNOwt3RXA-icon_flower.svg
+      type: text
+    size:
+      value: 2635
+      type: number
+    width:
+      value: 60
+      type: number
+    height:
+      value: 57
+      type: number
+    custom: {}
+created: '2024-01-17T18:31:46.607547+00:00'
+modified: '2024-01-17T18:37:22.691694+00:00'

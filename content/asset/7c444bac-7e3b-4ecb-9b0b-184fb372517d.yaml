@@ -1,0 +1,30 @@
+asset:
+  type: image
+  _id: 7c444bac-7e3b-4ecb-9b0b-184fb372517d
+  _name: ''
+  fields:
+    title:
+      type: text
+      value: 25_off.svg
+    file:
+      type: file
+      value: 29462eb3-00a7-42ac-8f92-284dfc3b2be2
+    mediaType:
+      value: image/svg+xml
+      type: text
+    url:
+      value: >-
+        https://canary-img.uniform.global/p/dwsfSKzGTaunBLyd20SnWA/nRrspOoLQYqf16xNXp0rkQ-25_off.svg
+      type: text
+    size:
+      value: 3722
+      type: number
+    width:
+      value: 113
+      type: number
+    height:
+      value: 113
+      type: number
+    custom: {}
+created: '2024-01-17T18:31:45.09365+00:00'
+modified: '2024-01-17T18:37:03.056706+00:00'
